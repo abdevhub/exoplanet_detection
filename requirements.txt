@@ -1,0 +1,10 @@
+lightkurve
+wotan
+matplotlib
+numpy
+setuptools
+pandas
+xgboost
+scikit-learn
+seaborn
+scipy
